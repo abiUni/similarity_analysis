@@ -1,0 +1,17 @@
+a {
+    font-family: Lucida Grande;
+    color: white;
+    font-size: 30px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
