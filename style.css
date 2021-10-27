@@ -28,9 +28,9 @@ p {
 
 div {
     font-family: Lucida Grande;
-    position: fixed;
+    position: relative;
     top: 10%;
-    left: 40%;
+    left: 10%;
     color: white;
     font-size: 30px;
 }
@@ -38,7 +38,7 @@ div {
 img {
     width: 10%;
     display: block;
-    margin-left: 200px;
+    margin-left: 60%;
     margin-right: auto;
     border-radius: 5%;
 }
